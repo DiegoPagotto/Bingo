@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap');
+
+* {
+    font-family: 'Baloo Thambi 2', cursive;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.btn-circle {
+    text-align: center;
+    max-width: 60px;
+    height: 60px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 30px;
+}
+
+.btn-circle-lg {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    padding: 10px 16px;
+    font-size: 40px;
+    line-height: 1.5;
+    border-radius: 50px;
+}
